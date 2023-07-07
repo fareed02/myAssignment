@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(37, 37, 179);
+}
+.my-poem{
+    background-color: rgb(233, 208, 111);
+    height: 800px;
+    width: 50%;
+    max-height: 1600px;
+    min-height: 300px;
+    width: 800px;
+    display: flex;
+    /* margin: 10px 20px 20px 20px; */
+    width: 100%;
+    border: 2px solid grey;
+}
+        
+.para1{
+    /* margin: 10px 10px 5px 5px; */
+    /* width: 50%; */
+}
+.main-container{
+    width: 50%;
+    margin: 20px 150px;
+}
+
+.heading{
+    /* text-align: center; */
+    margin-left: 300px; 
+    font-size: 40px;
+    border: 3px solid black ;
+    width: 50%;
+    text-align: center;
+    background-color: coral;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+
+.first{
+    /* margin: 10px 80px 5px 400px; */
+    color: rgb(218, 32, 59);
+    font-size: 20px;
+
+}
+
+.second{
+    /* margin: 10px 80px 5px 400px; */
+    color: rgb(39, 39, 253);
+    font-size: 20px;
+
+}
+
+.third{
+    /* margin: 10px 80px 5px 400px; */
+    color: rgb(206, 15, 15);
+    font-size: 20px;
+  
+}
+
+.fourth {
+    /* margin: 10px 80px 5px 400px; */
+color: rgb(112, 77, 10);
+font-size: 20px;
+    
+}
+
+.fivth{
+    /* margin: 10px 80px 5px 400px; */
+    color: rgb(66, 8, 66);
+    font-size: 20px;
+ 
+}
+.sixth{
+    /* margin: 10px 80px 5px 400px; */
+    color: rgb(105, 11, 11);
+    font-size: 20px;
+
+}
+
+.poem{
+    margin: auto;
+    width: 50%;
+}
+
+
+img{
+    margin: 0px 200px 5px 100px;
+    height: 550px;
+    width: 500px;
+}
+.seventh{
+    margin: 20px 150px 5px 100px;
+    color: rgb(2, 10, 32);
+    font-size: 20px;
+
+}
+.about-poet{
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+.btn{
+    background-color: rgb(30, 30, 133);
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+.more-poems{
+    background-color:rgb(34, 194, 194);
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.text{
+    font-size: 20px;
+    color:black;
+}
+
+label{
+    margin: 0px 10px;
+    
+}
